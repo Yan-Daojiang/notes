@@ -14,4 +14,16 @@
         <description>Created after removal of "Reference" from Yan-Daojiang's NOTES</description>
         <accepts>Reference.html</accepts>
     </rule>
+    <rule id="2a0c04a1">
+        <description>Created after removal of "Overview" from Yan-Daojiang's NOTES</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="5231b0d4">
+        <description>Created after removal of "Git 常用命令总结" from Yan-Daojiang's NOTES</description>
+        <accepts>Git-summary.html</accepts>
+    </rule>
+    <rule id="24704a95">
+        <description>Created after removal of "This is the first topic" from Yan-Daojiang's NOTES</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
 </rules>
