@@ -7,6 +7,7 @@
                  start-page="README.md">
 
     <toc-element topic="README.md"/>
+    <toc-element topic="system-design.md"/>
     <toc-element topic="Tools.md">
         <toc-element topic="git-summary.md"/>
     </toc-element>
