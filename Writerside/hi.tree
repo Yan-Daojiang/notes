@@ -10,6 +10,7 @@
     <toc-element topic="system-design.md">
         <toc-element topic="Design-Data-Intensive-Applications.md">
             <toc-element topic="ddia-ch1.md"/>
+            <toc-element topic="ddia-ch3.md"/>
         </toc-element>
     </toc-element>
     <toc-element topic="Tools.md">
