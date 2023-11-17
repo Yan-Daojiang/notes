@@ -15,6 +15,7 @@
     </toc-element>
     <toc-element topic="Tools.md">
         <toc-element topic="git-summary.md"/>
+        <toc-element topic="pycharm_summary.md"/>
     </toc-element>
     <toc-element topic="Linux.md">
         <toc-element topic="Linux_common_commands.md"/>
